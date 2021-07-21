@@ -341,3 +341,8 @@
 21-Jul-21 12:12:16 - Current temperature: 29.862C
 21-Jul-21 12:12:57 - Current temperature: 30.4C
 21-Jul-21 12:13:37 - Current temperature: 30.4C
+21-Jul-21 12:14:12 - Current temperature: 30.4C
+21-Jul-21 12:14:18 - Current temperature: 30.4C
+21-Jul-21 12:14:59 - Current temperature: 30.4C
+21-Jul-21 12:15:40 - Current temperature: 30.4C
+21-Jul-21 12:15:44 - Current temperature: 30.938C
