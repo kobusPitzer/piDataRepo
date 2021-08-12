@@ -1,0 +1,7 @@
+13-Aug-21 00:03:40 - Current temperature: 32.552C
+13-Aug-21 00:09:09 - Current temperature: 32.552C
+13-Aug-21 00:14:36 - Current temperature: 32.014C
+13-Aug-21 00:20:05 - Current temperature: 31.476C
+13-Aug-21 00:25:33 - Current temperature: 32.552C
+13-Aug-21 00:31:02 - Current temperature: 32.552C
+13-Aug-21 00:36:30 - Current temperature: 32.552C
